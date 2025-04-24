@@ -120,9 +120,3 @@ Such analytics are essential for businesses aiming to increase revenue, improve 
 
 ---
 
-## 📁 Resources
-
-- 📂 Dataset: [Kaggle - Online Retail](https://www.kaggle.com/)
-- 📘 Libraries used: pandas, numpy, matplotlib, scikit-learn
-
-
